@@ -23,7 +23,7 @@ pkg install wget && wget https://raw.githubusercontent.com/termuxhackers-id/SIGI
 ```
 - Installation on kali linux
 ```bash
-    /bin/bash -c (curl -fsSL https://raw.githubusercontent.com/ProjectZeroDays/SIGIT-kali/refs/heads/main/installkali.sh)
+/bin/bash -c (curl -fsSL https://raw.githubusercontent.com/ProjectZeroDays/SIGIT-kali/refs/heads/main/installkali.sh)
 ```
 - Uninstallation
 - termux: ```rm -rf $PREFIX/bin/sigit```
